@@ -32,7 +32,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I tried to turn the ListView into a CardView in order to add more information and style to the list, but that proved to be 
+too complicated at the end. I also wanted to add checkboxes to each list item and tried, but I didn't understand everything
+that people were saying on StackOverflow.
 
 ## License
 
